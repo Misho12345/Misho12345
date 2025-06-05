@@ -57,17 +57,21 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Misho12345&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Misho12345&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misho12345&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<table align="center" style="border: none; border-collapse: collapse;" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="border: none; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Misho12345&amp;show_icons=true&amp;theme=radical&amp;count_private=true" alt="GitHub Stats" />
+    </td>
+    <td style="border: none; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misho12345&amp;layout=compact&amp;theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="border: none; padding: 0;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Misho12345&amp;theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 
