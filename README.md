@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Misho12345/Boza">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misho12345&repo=B oza&theme=radical" alt="Boza" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misho12345&repo=Boza&theme=radical" alt="Boza" />
   </a>
   <a href="https://github.com/MartinR260/OXL">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinR260&repo=OXL&theme=radical" alt="OXL" />
@@ -11,10 +11,10 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AGIBotTF&repo=OpenCV-CameraTriangulation&theme=radical" alt="OXL" />
   </a>
   <a href="https://github.com/Misho12345/Astroland">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misho12345&repo=Astro land&theme=radical" alt="OXL" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misho12345&repo=Astroland&theme=radical" alt="OXL" />
   </a>
   <a href="https://github.com/Misho12345/Vulkan-OBJ-Voxelizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misho12345&repo=Vulka n-OBJ-Voxelizer&theme=radical" alt="OXL" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misho12345&repo=Vulkan-OBJ-Voxelizer&theme=radical" alt="OXL" />
   </a>
   <a href="https://github.com/DebelToni/StateMachineSQL">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DebelToni&repo=StateMachineSQL&theme=radical" alt="OXL" />
