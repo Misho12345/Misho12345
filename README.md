@@ -7,8 +7,8 @@
   <a href="https://github.com/MartinR260/OXL">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinR260&repo=OXL&theme=radical" alt="OXL" />
   </a>
-  <a href="https://github.com/AGIBotTF/CameraTriangulation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AGIBotTF&repo=CameraTriangulation&theme=radical" alt="OXL" />
+  <a href="https://github.com/AGIBotTF/OpenCV-CameraTriangulation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AGIBotTF&repo=OpenCV-CameraTriangulation&theme=radical" alt="OXL" />
   </a>
   <a href="https://github.com/Misho12345/Astroland">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misho12345&repo=Astroland&theme=radical" alt="OXL" />
