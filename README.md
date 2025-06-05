@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Always+learning%2C+always+coding;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
-</div>
-
 ## 🔥 Featured Projects
 
 <div align="center">
