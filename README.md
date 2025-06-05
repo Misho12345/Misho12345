@@ -2,6 +2,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Always+learning%2C+always+coding;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
 </div>
 
+## 🔥 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Misho12345/Boza">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misho12345&repo=Boza&theme=radical" alt="Boza" />
+  </a>
+  <a href="https://github.com/MartinR260/OXL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinR260&repo=OXL&theme=radical" alt="OXL" />
+  </a>
+  <a href="https://github.com/AGIBotTF/CameraTriangulation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AGIBotTF&repo=CameraTriangulation&theme=radical" alt="OXL" />
+  </a>
+  <a href="https://github.com/Misho12345/Astroland">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misho12345&repo=Astroland&theme=radical" alt="OXL" />
+  </a>
+  <a href="https://github.com/Misho12345/Vulkan-OBJ-Voxelizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misho12345&repo=Vulkan-OBJ-Voxelizer&theme=radical" alt="OXL" />
+  </a>
+  <a href="https://github.com/DebelToni/StateMachineSQL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DebelToni&repo=StateMachineSQL&theme=radical" alt="OXL" />
+  </a>
+</div>
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -54,29 +77,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Misho12345&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 🔥 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Misho12345/Boza">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misho12345&repo=Boza&theme=radical" alt="Boza" />
-  </a>
-  <a href="https://github.com/MartinR260/OXL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinR260&repo=OXL&theme=radical" alt="OXL" />
-  </a>
-  <a href="https://github.com/AGIBotTF/CameraTriangulation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AGIBotTF&repo=CameraTriangulation&theme=radical" alt="OXL" />
-  </a>
-  <a href="https://github.com/Misho12345/Astroland">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misho12345&repo=Astroland&theme=radical" alt="OXL" />
-  </a>
-  <a href="https://github.com/Misho12345/Vulkan-OBJ-Voxelizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misho12345&repo=Vulkan-OBJ-Voxelizer&theme=radical" alt="OXL" />
-  </a>
-  <a href="https://github.com/DebelToni/StateMachineSQL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DebelToni&repo=StateMachineSQL&theme=radical" alt="OXL" />
-  </a>
 </div>
 
 <div align="center">
